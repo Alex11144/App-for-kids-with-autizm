@@ -1,0 +1,54 @@
+Date : 2022-12-03 15:31:28
+Directory : c:\Users\gasan\.vscode\flutter projects\kids_app
+Total : 15 files,  313 codes, 321 comments, 9 blanks, all 643 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         12 |        321 |        329 |          8 |        658 |
+| XML      |          1 |          1 |          0 |          0 |          1 |
+| YAML     |          1 |         -1 |         -8 |          1 |         -8 |
+| Swift    |          1 |         -8 |          0 |          0 |         -8 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         15 |        313 |        321 |          9 |        643 |
+| android                                                                                        |          1 |          1 |          0 |          0 |          1 |
+| android\app                                                                                    |          1 |          1 |          0 |          0 |          1 |
+| android\app\src                                                                                |          1 |          1 |          0 |          0 |          1 |
+| android\app\src\main                                                                           |          1 |          1 |          0 |          0 |          1 |
+| lib                                                                                            |         12 |        321 |        329 |          8 |        658 |
+| lib\data                                                                                       |          1 |         98 |       -283 |        -23 |       -208 |
+| lib\ui                                                                                         |         11 |        223 |        612 |         31 |        866 |
+| lib\ui\lists                                                                                   |          7 |         57 |        329 |          8 |        394 |
+| lib\ui\my_cards                                                                                |          1 |         96 |         90 |          4 |        190 |
+| lib\ui\splash_screen                                                                           |          1 |         54 |         35 |         14 |        103 |
+| macos                                                                                          |          1 |         -8 |          0 |          0 |         -8 |
+| macos\Flutter                                                                                  |          1 |         -8 |          0 |          0 |         -8 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                       | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\gasan\.vscode\flutter projects\kids_app\android\app\src\main\AndroidManifest.xml      | XML      |          1 |          0 |          0 |          1 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\data\provider_for_cards.dart              | Dart     |         98 |       -283 |        -23 |       -208 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\create_item.dart                       | Dart     |        -25 |          7 |         -5 |        -23 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\list_for_kids.dart                     | Dart     |         41 |        151 |         10 |        202 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\draw_list.dart                   | Dart     |         15 |         47 |          1 |         63 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\drink_list.dart                  | Dart     |         15 |         47 |          1 |         63 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\eat_list.dart                    | Dart     |        -32 |         30 |          0 |         -2 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\go_list.dart                     | Dart     |         15 |         47 |          1 |         63 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\hygiene_list.dart                | Dart     |         15 |         47 |          2 |         64 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\play_list.dart                   | Dart     |         15 |         64 |          2 |         81 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\lists\rest_list.dart                   | Dart     |         14 |         47 |          1 |         62 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\my_cards\my_cards.dart                 | Dart     |         96 |         90 |          4 |        190 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\lib\ui\splash_screen\splash_congratulate.dart | Dart     |         54 |         35 |         14 |        103 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\macos\Flutter\GeneratedPluginRegistrant.swift | Swift    |         -8 |          0 |          0 |         -8 |
+| c:\Users\gasan\.vscode\flutter projects\kids_app\pubspec.yaml                                  | YAML     |         -1 |         -8 |          1 |         -8 |
+| Total                                                                                          |          |        313 |        321 |          9 |        643 |
++------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
